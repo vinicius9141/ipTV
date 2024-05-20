@@ -1,827 +1,159 @@
 #EXTM3U
 #EXTINF:0,SupercamBR M3U Generator
 http://sourceforge.net/projects/supercambr
-#EXTINF:0,AEE 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/225
-#EXTINF:0,AGRO+ 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/852
-#EXTINF:0,AMAZON ESPORTES 1
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1067
-#EXTINF:0,AMAZON ESPORTES 2
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1010
-#EXTINF:0,AMAZON ESPORTES 3
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1158
-#EXTINF:0,AMAZON ESPORTES 4
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1159
-#EXTINF:0,AMC 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/228
-#EXTINF:0,AMC HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/229
-#EXTINF:0,ANIMAL PLANET 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/61
-#EXTINF:0,ARTE 1 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/231
-#EXTINF:0,ARTE 1 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/232
-#EXTINF:0,AXN 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/233
-#EXTINF:0,BABY TV 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/767
-#EXTINF:0,BABY TV HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/342
-#EXTINF:0,BAND MINAS UHD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/481
-#EXTINF:0,BAND NEWS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/482
-#EXTINF:0,BAND NEWS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/432
-#EXTINF:0,BAND NORDESTE UHD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/483
-#EXTINF:0,BAND SP 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/484
-#EXTINF:0,BAND SP HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/485
-#EXTINF:0,BAND SPORTS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/120
-#EXTINF:0,BAND SPORTS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/121
-#EXTINF:0,A GRANDE CONQUISTA CAMERA 1
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1250
-#EXTINF:0,A GRANDE CONQUISTA
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1249
-#EXTINF:0,BEIN SPORTS 1
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/901
-#EXTINF:0,BEIN SPORTS 2
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/902
-#EXTINF:0,BEIN SPORTS 3
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/903
-#EXTINF:0,BEIN SPORTS 4
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/904
-#EXTINF:0,BEIN SPORTS 5 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/905
-#EXTINF:0,BEIN SPORTS 6 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/906
-#EXTINF:0,BEIN SPORTS 7
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/907
-#EXTINF:0,BIS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/419
-#EXTINF:0,BIS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/420
-#EXTINF:0,CANAL BOI HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/486
-#EXTINF:0,CANAL BRASIL 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/236
-#EXTINF:0,CANAL BRASIL HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/237
-#EXTINF:0,CANCAO NOVA HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/96
-#EXTINF:0,CANCAO NOVA UHD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/97
-#EXTINF:0,CARTOON NETWORK 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/346
-#EXTINF:0,CARTOON NETWORK HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/347
-#EXTINF:0,CARTOONITO 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/344
-#EXTINF:0,CARTOONITO HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/345
-#EXTINF:0,CAZE TV
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1145
-#EXTINF:0,CINEMAX 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/239
-#EXTINF:0,CINEMAX HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/240
-#EXTINF:0,CNN BRASIL 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/433
-#EXTINF:0,CNN ESPANHOL
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/436
-#EXTINF:0,CNN INTERNACIONAL 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/438
-#EXTINF:0,CNT HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/444
-#EXTINF:0,COMBATE 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/122
-#EXTINF:0,COMBATE HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/123
-#EXTINF:0,COMEDY CENTRAL 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/99
-#EXTINF:0,COMEDY CENTRAL HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/98
-#EXTINF:0,A GRANDE CONQUISTA CAMERA 7
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1256
-#EXTINF:0,CURTA HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/100
-#EXTINF:0,DAZN 1
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/206
-#EXTINF:0,DAZN 1 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/821
-#EXTINF:0,DAZN 2
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/205
-#EXTINF:0,DAZN 2 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/822
-#EXTINF:0,DAZN 3 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/823
-#EXTINF:0,DAZN 4 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/824
-#EXTINF:0,DISCOVERY CHANNEL 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/65
-#EXTINF:0,DISCOVERY HEH 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/67
-#EXTINF:0,DISCOVERY HEH HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/68
-#EXTINF:0,DISCOVERY ID 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/69
-#EXTINF:0,DISCOVERY ID HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/70
-#EXTINF:0,DISCOVERY KIDS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/348
-#EXTINF:0,DISCOVERY KIDS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/349
-#EXTINF:0,DISCOVERY SCIENCE 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/71
-#EXTINF:0,DISCOVERY SCIENCE HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/72
-#EXTINF:0,DISCOVERY THEATER 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/73
-#EXTINF:0,DISCOVERY THEATER HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/74
-#EXTINF:0,DISCOVERY TURBO 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/75
-#EXTINF:0,DISCOVERY WORLD 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/77
-#EXTINF:0,DISCOVERY WORLD HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/78
-#EXTINF:0,DISNEY CHANNEL  4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/351
-#EXTINF:0,DISNEY CHANNEL HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/352
-#EXTINF:0,DOG TV HD 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/879
-#EXTINF:0,E! 2 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/101
-#EXTINF:0,E! 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/102
-#EXTINF:0,E! HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/103
-#EXTINF:0,EPTV RIBEIRAO PRETO
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1011
-#EXTINF:0,ESPN  4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/130
-#EXTINF:0,ESPN  HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/131
-#EXTINF:0,ESPN 2 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/129
-#EXTINF:0,ESPN 2 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/135
-#EXTINF:0,ESPN 3 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/127
-#EXTINF:0,ESPN 3 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/126
-#EXTINF:0,ESPN 4 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/142
-#EXTINF:0,ESPN 4 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/143
-#EXTINF:0,ESPN 4 HDR
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/899
-#EXTINF:0,ESPN 6 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/133
-#EXTINF:0,ESPN 6 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/134
-#EXTINF:0,FASHION TV HD 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/878
-#EXTINF:0,FEC 01
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1168
-#EXTINF:0,FEC 02
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1169
-#EXTINF:0,FEC 03
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1170
-#EXTINF:0,FEC 04
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1171
-#EXTINF:0,FEC 05
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1172
-#EXTINF:0,FEC 06
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1173
-#EXTINF:0,FEC 07
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1174
-#EXTINF:0,FEC 08
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1175
-#EXTINF:0,FEC 09
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1176
-#EXTINF:0,FEC 10
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1177
-#EXTINF:0,FEC 11
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1178
-#EXTINF:0,FEC 12
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1179
-#EXTINF:0,FEC 13
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1180
-#EXTINF:0,FEC 14
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1181
-#EXTINF:0,FEC 15
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1182
-#EXTINF:0,FEC 16
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1183
-#EXTINF:0,FEC 17
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1184
-#EXTINF:0,FEC 18
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1185
-#EXTINF:0,FEC 19
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1186
-#EXTINF:0,FEC 20
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1187
-#EXTINF:0,IVBORW0KGGOAAAANSUHEUGAAAPGAAADLCAMAAAB04A46AAAAWFBMVEX____HGZIJHYDGDSRHEY3PBHFLS1J98FP97VDFAB3RCXZHGDAFGHSGHB0BFHG2MZTQZ9D3VMNAWFHMSUR29VYAAADQZ3RCQEB9E3WWEBH53N6WLJSLPKT+9VF61NNFABJGACHF39++VB0VKYWMAANWBW7QEILNXWNIJTVWOKFPZS7KMEBEAAD4Z9PZR7XFABFDW1VVI5BKPE7UHPL3WCJNUML75EFWMQLYQBHM5EVPZWENI4UAFN+2TBXLP1PXNKWD2YMGAAAHQKLEQVR4NO2Z_VEYVH+HWC0HBB_QJKHQVUOUTXAIZHXF9V__V59TGIDV+XA0ZPM9R+UHDOWNUDJ23NUKKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4EEPR7RDYLH_BW2K0GT0+Y_O3VBK4UXFQ9D2SB0C7OXGDACRX+Z+FLF8G8EVHY6_3EKKO0X7NPASOQ3HW2N1HXGCKNDUAJXGWEW1V9S80PFJ8_NXGT9VTYVBR+VZAPR9XLJ44ULNFQ5Z6T_MFDUD3NF958W7HRGHSIW5UKOYUB1CQRC4EPA6XY+1SSY85CDFRDFGUBNYZEE96G_BGW8TPUNZJZHUIJX3ECJT+WFHNGEZU8+NLHAJ0BPYBA8TPZVFAPOP9KOKXE+7DHP6VS_CVZ_OKJI6IODKK9+JYO4HFIJFUXO6U7IS+TNQBT5RMUFLQ1D54ZV2TZT4T_0J8FZPVEK98QFZ5_VR+KJU5KP4UXB_QSMC0OCRK3SFSV1WNGVMDN4WZ3ZZWUBYR5ELSJXT_W0VZJMQGAUXM4BDX6XAO4LML0HSOH9EK8SOLHQ9XUFJZJS+ZXPWPV397553Z_LSUCN1H_7ZT6U__VROXFAUORSDYMFYBL4C617JMJ45JZ_A20AS6VVCIYASOWY3J2AZ8MPLEO4TFQAIGM99BOK7SOGATKE8RH7TBLBMWGW3B5SHTFLUOZ+JDXMXSO7U07BZHTAY7DSKGIW20WI1E9EV5R5YLI3HJLY50XSONDXQZNV_8UKY+YJW45KQV4WG2KIBHBPOJGZSXWPMIP0I8KMNCFLCCNQ35TDAELYATRFBL+MKQNVQMLZVIDJE+ZBRAFKFU4BR6VVP9Z
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/242
-#EXTINF:0,FISH TV 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/79
-#EXTINF:0,FISH TV HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/80
-#EXTINF:0,FOOD NETWORK 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/104
-#EXTINF:0,FOOD NETWORK HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/105
-#EXTINF:0,ESPN 5 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/139
-#EXTINF:0,ESPN 5 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/140
-#EXTINF:0,FURAC�CO LIVE 4K 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/818
-#EXTINF:0,FUTURA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/243
-#EXTINF:0,FX HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/244
-#EXTINF:0,GLOBO BAHIA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/488
-#EXTINF:0,GLOBO BRASILIA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/490
-#EXTINF:0,GLOBO EPTV CAMPINAS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/780
-#EXTINF:0,GLOBO EPTV CAMPINAS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/491
-#EXTINF:0,GLOBO EPTV SUL DE MINAS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1012
-#EXTINF:0,GLOBO INTEGRA�G�CO JUIZ DE FORA
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/494
-#EXTINF:0,GLOBO INTER TV CABUGI 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/514
-#EXTINF:0,GLOBO INTER TV CABUGI HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/495
-#EXTINF:0,GLOBO MINAS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/497
-#EXTINF:0,GLOBO MINAS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/772
-#EXTINF:0,GLOBO NEWS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/498
-#EXTINF:0,GLOBO NEWS DF
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/445
-#EXTINF:0,GLOBO NORDESTE 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1248
-#EXTINF:0,GLOBO NSC BLUMENAU 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/515
-#EXTINF:0,GLOBO RBS PORTO ALEGRE 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/501
-#EXTINF:0,GLOBO REDE AMAZONICA MANAUS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/530
-#EXTINF:0,GLOBO RJ 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/504
-#EXTINF:0,GLOBO RPC CURITIBA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/505
-#EXTINF:0,GLOBO RPC FOZ DO IGUA�GU 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/506
-#EXTINF:0,GLOBO RPC MARINGA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/507
-#EXTINF:0,GLOBO RPC MARINGA HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/817
-#EXTINF:0,GLOBO SERGIPE 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1160
-#EXTINF:0,GLOBO SP 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/511
-#EXTINF:0,GLOBO TV ANHANGUERA GOIAS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/849
-#EXTINF:0,GLOBO TV CENTRO AMERICA CUIABA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1102
-#EXTINF:0,GLOBO TV LIBERAL BELEM 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/554
-#EXTINF:0,GLOBO TV LIBERAL BELEM HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/773
-#EXTINF:0,GLOBO TV TEM BAURU HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/968
-#EXTINF:0,GLOBO TV TEM SOROCABA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/563
-#EXTINF:0,GLOBOSAT + UHD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/106
-#EXTINF:0,GLOOB 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/357
-#EXTINF:0,GLOOB HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/358
-#EXTINF:0,GLOOBINHO 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/359
-#EXTINF:0,GLOOBINHO HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/360
-#EXTINF:0,GNT 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/107
-#EXTINF:0,H2 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/815
-#EXTINF:0,H2 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/81
-#EXTINF:0,HBO + 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/246
-#EXTINF:0,HBO + HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/245
-#EXTINF:0,HBO 2 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/247
-#EXTINF:0,HBO 2 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/248
-#EXTINF:0,HBO 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/251
-#EXTINF:0,HBO FAMILY 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/252
-#EXTINF:0,HBO FAMILY HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/253
-#EXTINF:0,HBO HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/255
-#EXTINF:0,HBO MAX 1 HD 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/832
-#EXTINF:0,HBO MAX 2 HD 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/833
-#EXTINF:0,HBO MAX 3 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/834
-#EXTINF:0,HBO MAX 4 HD 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/835
-#EXTINF:0,HBO MUNDI 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/256
-#EXTINF:0,HBO MUNDI HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/257
-#EXTINF:0,HBO PLUS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/258
-#EXTINF:0,HBO PLUS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/259
-#EXTINF:0,HBO POP 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/260
-#EXTINF:0,HBO POP HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/261
-#EXTINF:0,HBO SIGNATURE 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/264
-#EXTINF:0,HBO SIGNATURE HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/262
-#EXTINF:0,HBO XTREME 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/266
-#EXTINF:0,HBO XTREME HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/267
-#EXTINF:0,HGTV 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/816
-#EXTINF:0,HGTV HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/552
-#EXTINF:0,HISTORY CHANNEL 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/83
-#EXTINF:0,HISTORY CHANNEL HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/82
-#EXTINF:0,JOVEM PAN NEWS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/847
-#EXTINF:0,JOVEM PAN NEWS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/846
-#EXTINF:0,LIFETIME HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/269
-#EXTINF:0,MEGAPIX 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/270
-#EXTINF:0,MEGAPIX HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/271
-#EXTINF:0,MODO VIAGEM 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/85
-#EXTINF:0,A GRANDE CONQUISTA CAMERA 3
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1252
-#EXTINF:0,A GRANDE CONQUISTA CAMERA 2
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1251
-#EXTINF:0,MTV 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/112
-#EXTINF:0,MTV HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/422
-#EXTINF:0,MTV LIVE 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/831
-#EXTINF:0,MULTISHOW HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/423
-#EXTINF:0,MUSIC BOX  4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/424
-#EXTINF:0,NATIONAL GEOGRAPHIC 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/87
-#EXTINF:0,NATIONAL GEOGRAPHIC HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/88
-#EXTINF:0,NBA 1 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1156
-#EXTINF:0,NBA 2 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1157
-#EXTINF:0,NFL 1
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1123
-#EXTINF:0,NFL 2
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1124
-#EXTINF:0,NFL 3
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1125
-#EXTINF:0,NFL 4
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1126
-#EXTINF:0,NFL 5
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1127
-#EXTINF:0,NFL 6
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1128
-#EXTINF:0,NFL NETWORK USA
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1129
-#EXTINF:0,NFL REDZONE USA
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1130
-#EXTINF:0,NHK 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/449
-#EXTINF:0,NHK HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/450
-#EXTINF:0,NICK JR 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/363
-#EXTINF:0,NICK JR HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/364
-#EXTINF:0,NICKELODEON 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/365
-#EXTINF:0,NICKELODEON HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/768
-#EXTINF:0,NOSSO FUTEBOL 1
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1131
-#EXTINF:0,NOSSO FUTEBOL 2
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1132
-#EXTINF:0,NOSSO FUTEBOL 3
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1133
-#EXTINF:0,NOSSO FUTEBOL 4
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1134
-#EXTINF:0,NOVO TEMPO HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/556
-#EXTINF:0,NSPORTS 1 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1068
-#EXTINF:0,NSPORTS 2 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1069
-#EXTINF:0,OFF 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/273
-#EXTINF:0,OFF HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/274
-#EXTINF:0,PAI ETERNO
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/939
-#EXTINF:0,PARAMOUNT CHANNEL 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/275
-#EXTINF:0,PARAMOUNT HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/276
-#EXTINF:0,PARAMOUNT+ 1 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1151
-#EXTINF:0,PARAMOUNT+ 2 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1152
-#EXTINF:0,PARAMOUNT+ 3 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1153
-#EXTINF:0,PARAMOUNT+ 4 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1154
-#EXTINF:0,PLAY TV
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/426
-#EXTINF:0,PREMIERE 1 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/148
-#EXTINF:0,PREMIERE 2 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/149
-#EXTINF:0,PREMIERE 2 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/150
-#EXTINF:0,PREMIERE 3 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/153
-#EXTINF:0,PREMIERE 3 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/152
-#EXTINF:0,PREMIERE 4 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/155
-#EXTINF:0,PREMIERE 4 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/154
-#EXTINF:0,PREMIERE 5 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/157
-#EXTINF:0,PREMIERE 5 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/156
-#EXTINF:0,PREMIERE 6 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/159
-#EXTINF:0,PREMIERE 6 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/158
-#EXTINF:0,PREMIERE 7 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/161
-#EXTINF:0,PREMIERE 7 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/160
-#EXTINF:0,PREMIERE 8 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/162
-#EXTINF:0,PREMIERE 9 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/163
-#EXTINF:0,PREMIERE CLUBES 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/165
-#EXTINF:0,PREMIERE CLUBES HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/164
-#EXTINF:0,PRIME BOX BRASIL HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/277
-#EXTINF:0,A GRANDE CONQUISTA CAMERA 8
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1257
-#EXTINF:0,A GRANDE CONQUISTA CAMERA 5
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1254
-#EXTINF:0,A GRANDE CONQUISTA CAMERA 4
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1253
-#EXTINF:0,RAI ITALIA HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/428
-#EXTINF:0,RBI 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/517
-#EXTINF:0,RBS TV PORTO ALEGRE
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/519
-#EXTINF:0,RECORD BAHIA HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/520
-#EXTINF:0,RECORD BRASILIA HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/521
-#EXTINF:0,RECORD DF HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/522
-#EXTINF:0,RECORD HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/523
-#EXTINF:0,RECORD MANAUS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/524
-#EXTINF:0,RECORD MINAS UHD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/525
-#EXTINF:0,RECORD NEWS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/452
-#EXTINF:0,RECORD NEWS U4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/451
-#EXTINF:0,RECORD PARANA HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/526
-#EXTINF:0,RECORD RJ 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/766
-#EXTINF:0,RECORD RJ HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/527
-#EXTINF:0,RECORD SP HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/529
-#EXTINF:0,RECORD SP INTERIOR HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/528
-#EXTINF:0,REDE BRASIL HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/531
-#EXTINF:0,REDE GOSPEL
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1052
-#EXTINF:0,REDE SUPER
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1054
-#EXTINF:0,REDE TV HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/532
-#EXTINF:0,REDE VIDA HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/113
-#EXTINF:0,SABOR E ARTE HD 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/877
-#EXTINF:0,A GRANDE CONQUISTA CAMERA 6
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1255
-#EXTINF:0,SBT 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/534
-#EXTINF:0,SBT HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/540
-#EXTINF:0,SBT RJ UHD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/537
-#EXTINF:0,SBT SERRA DOURADA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/538
-#EXTINF:0,SONY CHANNEL HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/238
-#EXTINF:0,SPACE 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/278
-#EXTINF:0,SPORTV 1 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/183
-#EXTINF:0,SPORTV 1 HDR
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/178
-#EXTINF:0,SPORTV 2 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/172
-#EXTINF:0,SPORTV 3 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/175
-#EXTINF:0,STAR CHANNEL 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/281
-#EXTINF:0,STAR CHANNEL HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/282
-#EXTINF:0,STAR+ 1 HD 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/829
-#EXTINF:0,STAR+ 2 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/826
-#EXTINF:0,STAR+ 3 HD 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/827
-#EXTINF:0,STAR+ 4 HD 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/828
-#EXTINF:0,STAR+ 5 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1147
-#EXTINF:0,STAR+ 6 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1148
-#EXTINF:0,STAR+ 7 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1149
-#EXTINF:0,STAR+ 8 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1150
-#EXTINF:0,STUDIO UNIVERSAL 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/289
-#EXTINF:0,TBS 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/290
-#EXTINF:0,TBS HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/291
-#EXTINF:0,TCM HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/292
-#EXTINF:0,TCM UHD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/293
-#EXTINF:0,TELECINE ACTION 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/294
-#EXTINF:0,TELECINE ACTION HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/295
-#EXTINF:0,TELECINE CULT 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/297
-#EXTINF:0,TELECINE CULT HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/298
-#EXTINF:0,TELECINE FUN 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/300
-#EXTINF:0,TELECINE FUN HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/301
-#EXTINF:0,TELECINE PIPOCA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/303
-#EXTINF:0,TELECINE PIPOCA HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/304
-#EXTINF:0,TELECINE PREMIUM 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/306
-#EXTINF:0,TELECINE PREMIUM HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/307
-#EXTINF:0,TELECINE TOUCH 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/309
-#EXTINF:0,TELECINE TOUCH HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/310
-#EXTINF:0,TLC 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/91
-#EXTINF:0,TLC HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/92
-#EXTINF:0,TNT 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/312
-#EXTINF:0,TNT HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/313
-#EXTINF:0,TNT NOVELA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1167
-#EXTINF:0,TNT SERIES 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/314
-#EXTINF:0,TOONCAST 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/367
-#EXTINF:0,TOONCAST HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/368
-#EXTINF:0,TRACE BRAZUCA HD 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/969
-#EXTINF:0,TRAVEL BOX BRASIL 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/848
-#EXTINF:0,TRU TV HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/541
-#EXTINF:0,TV APARECIDA HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/542
-#EXTINF:0,TV BRASIL 2 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1101
-#EXTINF:0,TV BRASIL 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1100
-#EXTINF:0,TV CAMARA HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1165
-#EXTINF:0,TV CULTURA UHD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/547
-#EXTINF:0,TV DIARIO HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/548
-#EXTINF:0,TV EVANGELIZAR HD 
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1051
-#EXTINF:0,TV GAZETA  4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/551
-#EXTINF:0,TV GAZETA VITORIA ES 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1089
-#EXTINF:0,TV JUSTICA
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/553
-#EXTINF:0,TV MORENA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1099
-#EXTINF:0,TV NOVO TEMPO
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1053
-#EXTINF:0,TV RA TIM BUM 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/369
-#EXTINF:0,TV RA TIM BUM HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/557
-#EXTINF:0,TV SANTA CRUZ 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1055
-#EXTINF:0,TV SENADO HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1164
-#EXTINF:0,TV TEM SAO JOSE DO RIO PRETO
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/983
-#EXTINF:0,TV TEM SOROCABA HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/562
-#EXTINF:0,TV TRIBUNA SANTOS
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/564
-#EXTINF:0,TV VANGUARDA S. J. DOS CAMPOS
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/565
-#EXTINF:0,TV VERDES MARES FORTALEZA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/566
-#EXTINF:0,TVE HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/455
-#EXTINF:0,UFC FIGHT PASS
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1121
-#EXTINF:0,UFC PPV
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1122
-#EXTINF:0,UNIVERSAL CHANNEL HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/319
-#EXTINF:0,VH1 HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/430
-#EXTINF:0,VH1 MEGAHITS
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/431
-#EXTINF:0,VIVA 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/114
-#EXTINF:0,WARNER CHANNEL 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/783
-#EXTINF:0,WARNER CHANNEL HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/320
-#EXTINF:0,WOOHOO HD
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/117
-#EXTINF:0,XVIDEO 01
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1188
-#EXTINF:0,XVIDEO 02
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1189
-#EXTINF:0,XVIDEO 03
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1190
-#EXTINF:0,XVIDEO 04
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1191
-#EXTINF:0,XVIDEO 05
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1192
-#EXTINF:0,XVIDEO 06
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1193
-#EXTINF:0,XVIDEO 07
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1194
-#EXTINF:0,XVIDEO 08
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1195
-#EXTINF:0,XVIDEO 09
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1196
-#EXTINF:0,XVIDEO 10
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1197
-#EXTINF:0,XVIDEO 11
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1198
-#EXTINF:0,XVIDEO 12
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1199
-#EXTINF:0,XVIDEO 13
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1200
-#EXTINF:0,XVIDEO 14
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1201
-#EXTINF:0,XVIDEO 15
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1202
-#EXTINF:0,XVIDEO 16
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1203
-#EXTINF:0,XVIDEO 17
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1204
-#EXTINF:0,XVIDEO 19
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1206
-#EXTINF:0,XVIDEO 20
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1207
-#EXTINF:0,XVIDEO 21
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1208
-#EXTINF:0,XVIDEO 22
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1209
-#EXTINF:0,XVIDEO 23
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1210
-#EXTINF:0,XVIDEO 24
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1211
-#EXTINF:0,XVIDEO 25
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1212
-#EXTINF:0,XVIDEO 26
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1213
-#EXTINF:0,XVIDEO 27
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1214
-#EXTINF:0,XVIDEO 28
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1215
-#EXTINF:0,XVIDEO 29
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1216
-#EXTINF:0,XVIDEO 30
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1217
-#EXTINF:0,XVIDEO 31
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1218
-#EXTINF:0,XVIDEO 32
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1219
-#EXTINF:0,XVIDEO 33
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1220
-#EXTINF:0,XVIDEO 34
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1221
-#EXTINF:0,XVIDEO 35
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1222
-#EXTINF:0,XVIDEO 36
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1223
-#EXTINF:0,XVIDEO 37
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1224
-#EXTINF:0,XVIDEO 38
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1225
-#EXTINF:0,XVIDEO 39
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1226
-#EXTINF:0,XVIDEO 40
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1227
-#EXTINF:0,XVIDEO 41
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1228
-#EXTINF:0,XVIDEO 42
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1229
-#EXTINF:0,XVIDEO 43
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1230
-#EXTINF:0,XVIDEO 44
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1231
-#EXTINF:0,XVIDEO 45
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1232
-#EXTINF:0,XVIDEO 46
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1233
-#EXTINF:0,XVIDEO 47
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1234
-#EXTINF:0,XVIDEO 48
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1235
-#EXTINF:0,XVIDEO 49
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1236
-#EXTINF:0,XVIDEO 50
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1237
-#EXTINF:0,ZOOMOO 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/370
-#EXTINF:0,GOAT TV 2 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1264
-#EXTINF:0,GOAT TV 1 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1263
-#EXTINF:0,CAZE 1 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1265
-#EXTINF:0,CAZE 2 4K
-http://main.xplus2-main.xyz:2082/Tourobox1-FXGFSmrkpN/aPjcf8LEln/1266
+#EXTINF:0,2000 TV TURMA DA MôNICA (BR)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=_7BTARGETOPT_7D&deviceId=_7BPSID_7D&advertisingId=_7BPSID_7D&us_privacy=1YNY&samsung_app_domain=_7BAPP_DOMAIN_7D&samsung_app_name=_7BAPP_NAME_7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2002 OS DEZ MANDAMENTOS (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y98opvcxg57zf/playlist.m3u8
+#EXTINF:0,2003 NOVELANDO (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21vbc0vo9kqq3/playlist.m3u8
+#EXTINF:0,2004 INVESTIGAçãO TOTAL (BR)
+http://d7bktbz8mvtgl.cloudfront.net/playlist.m3u8
+#EXTINF:0,2038 RECORD NEWS (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:0,2040 JOVEN PAN NEWS (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lpqo0gcfdazd6/playlist.m3u8
+#EXTINF:0,2040 JOVEM PAN NEWS (BR) ALT
+http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
+#EXTINF:0,2042 CNN BRASIL
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:0,2064 EURONEWS PORTUGUêS (BR)
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2078 BLOOMBERG TV US (BR)
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,2084 NEW BRASIL (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
+#EXTINF:0,2085 RECEITAS FAST (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-owguzxrso3vrq/index.m3u8
+#EXTINF:0,2085 RECEITAS FAST (BR) ALT
+https://dl27mmj7tlts0.cloudfront.net/index.m3u8
+#EXTINF:0,2086 TASTEMADE (BR)
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0,2087 HOMEFUL (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
+#EXTINF:0,2136 NOVELANDO (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21vbc0vo9kqq3/playlist.m3u8
+#EXTINF:0,2136 NOVELANDO (BR) ALT
+http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
+#EXTINF:0,2138 NOVELISIMA (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
+#EXTINF:0,2145 PLUTO TV MASTERCHEF (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cts4xd2rn8b9n/playlist.m3u8
+#EXTINF:0,2145 PLUTO TV MASTERCHEF (BR) ALT
+https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
+#EXTINF:0,2148 SONY ONE SHARK TANK (BR)
+https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2150 PLUTO TV ENCANTADOR DE CãES (BR)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=_7BTARGETOPT_7D&deviceId=_7BPSID_7D&advertisingId=_7BPSID_7D&us_privacy=1YNY&samsung_app_domain=_7BAPP_DOMAIN_7D&samsung_app_name=_7BAPP_NAME_7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2152 CANAL UOL (BR_
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
+#EXTINF:0,2152 CANAL UOL (BR) ALT
+https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
+#EXTINF:0,2195 CANAL EMPREENDER (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t36qky98i4sus/playlist.m3u8
+#EXTINF:0,2201 DEMAND AFRICA (BR) (GEO)
+https://samsungbr-demand-africa-por-samsungbrazil-59rvt.amagi.tv/playlist.m3u8
+#EXTINF:0,2204 NOSEY ESCâNDALOS (BR)
+https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2204 NOSEY ESCâNDALOS (BR) ALT
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=_7BTARGETOPT_7D&deviceId=_7BPSID_7D&advertisingId=_7BPSID_7D&us_privacy=1YNY&samsung_app_domain=_7BAPP_DOMAIN_7D&samsung_app_name=_7BAPP_NAME_7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2205 FASHION TV INTERNATIONAL (BR)
+https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2206 HOLLYWIRE (SUBSTITUTE)
+https://di1slo8304ver.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bg9yxt784ebvh-ssai-prd/playlist.m3u8
+#EXTINF:0,2215 LOVE NATURE 4K (SUBSTITUTE)
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:0,2223 WILD EARTH (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0573ljsgymaix/playlist.m3u8
+#EXTINF:0,2227 STINGRAY NATURESCAPE (BR)
+https://lotus.stingray.com/manifest/naturescape-a003s-montreal/samsungbr/master.m3u8
+#EXTINF:0,2231 WEATHER SPY (BR)
+https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2241 TOON GOGGLES (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+#EXTINF:0,2253 NICKELODEON BOB ESPONJA CALçA QUADRADA (BR)
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=_7BUS_PRIVACY_7D&samsung_app_domain=_7BAPP_DOMAIN_7D&samsung_app_name=_7BAPP_NAME_7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2257 NICK CL�aSSICO (BR)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,2258 NICK JUNIOR CLUB (BR)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,2260 BABY SHARK TV (BR)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,2275 TV ZYN (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+#EXTINF:0,2285 GE FAST (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lfwebwvwdaf0i/index.m3u8
+#EXTINF:0,2285 GE FAST (BR) ALT
+https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
+#EXTINF:0,2295 FUEL TV (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+#EXTINF:0,2298 PEOPLE ARE AWESOME (BR)
+https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2319 HARD KNOCKS FIGHT CHAMPIONSHIP (BR)
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
+#EXTINF:0,2330 MOTORVISION.TV (BR)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+#EXTINF:0,2335 PLUTO TV NARUTO (BR) 
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=_7BUS_PRIVACY_7D&samsung_app_domain=_7BAPP_DOMAIN_7D&samsung_app_name=_7BAPP_NAME_7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2338 PLUTO TV ANIME (BR)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=_7BTARGETOPT_7D&deviceId=_7BPSID_7D&advertisingId=_7BPSID_7D&us_privacy=1YNY&samsung_app_domain=_7BAPP_DOMAIN_7D&samsung_app_name=_7BAPP_NAME_7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2344 UBISOFT TV (BR)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e01661a3e6270007f4ec9e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=_7BTARGETOPT_7D&deviceId=_7BPSID_7D&advertisingId=_7BPSID_7D&us_privacy=1YNY&samsung_app_domain=_7BAPP_DOMAIN_7D&samsung_app_name=_7BAPP_NAME_7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2436 MTV BIGGEST POP (BR)
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2fflivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=_7BUS_PRIVACY_7D&samsung_app_domain=_7BAPP_DOMAIN_7D&samsung_app_name=_7BAPP_NAME_7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2445 CLUBBING TV (BR) (GEO)
+https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0,2450 QWEST TV (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
+#EXTINF:0,2455 TRACE BRASIL (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
+#EXTINF:0,2460 COMEDY CENTRAL A CULPA �i DO CABRAL (BR)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=_7BTARGETOPT_7D&deviceId=_7BPSID_7D&advertisingId=_7BPSID_7D&us_privacy=1YNY&samsung_app_domain=_7BAPP_DOMAIN_7D&samsung_app_name=_7BAPP_NAME_7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2463 TRATAMENTO DE CHOQUE (ANGER MANAGEMENT) (BR) GEO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
+#EXTINF:0,2465 THE PET COLLECTIVE (BR)
+https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2475 FAILARMY (BR)
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2485 JUST FOR LAUGHS GAGS (BR)
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2485 CHIVE TV (BR)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_chivetv_001.m3u8
+#EXTINF:0,2500 THE AFV FAMILY CHANNEL (BR)
+https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
+#EXTINF:0,2538 INVESTIGAçãO TOTAL PLUTO TV INVESTIGAçãO (BR)
+http://d7bktbz8mvtgl.cloudfront.net/playlist.m3u8
+#EXTINF:0,2547 SMITHSONIAN CHANNEL PLUTO TV (BR)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=PSID&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,2549 SONY ONE - EMOçÕES (BR)
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2555 FILMRISE S�iRIES GRATUITAS (BR)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplusstitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
+#EXTINF:0,2560 REVRY (BR)
+https://revry-brazil.akamaized.net/playlist.m3u8
+#EXTINF:0,2560 REVRY (BR) ALT
+https://dletvjdknba4f.cloudfront.net/playlist.m3u8
+#EXTINF:0,2675 DARK MATTER TV (BR)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
+#EXTINF:0,2682 GRJNGO BRASIL (BR)
+http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
+#EXTINF:0,2684 RUNTIME ACTION (BR)
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+#EXTINF:0,2685 ADRENALINA FREEZONE (BR)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=PSID&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,2695 CINDIE LITE (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
+#EXTINF:0,2706 MYTIME MOVIE NETWORK (BR)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
+#EXTINF:0,2706 MYTIME MOVIE NETWORK (BR) ALT
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0,SPARK TV (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
+#EXTINF:0,2708 SPARK TV (BR) ALT
+https://d3jsl817hmfevn.cloudfront.net/index.m3u8
+#EXTINF:0,2730 RUNTIME TV (BR)
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+#EXTINF:0,2731 SONY ONE CLASSICS
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2733 MOVIESPHERE (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
